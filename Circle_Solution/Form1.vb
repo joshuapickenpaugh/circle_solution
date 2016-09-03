@@ -1,4 +1,8 @@
-﻿Public Class frmMain
+﻿' Joshua Picknenpaugh
+' September 3rd, 2016
+' "Circle Solution", Unit 3, CPT 432
+
+Public Class frmMain
     Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
 
         ' Closes the application:
